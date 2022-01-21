@@ -1,3 +1,4 @@
+// 3. lépés
 // ez az esemény váltódik ki amikor rányomunk a gombra
 
 export const ADD_TODO = "ADD_TODO"

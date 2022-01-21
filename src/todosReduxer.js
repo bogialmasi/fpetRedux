@@ -1,3 +1,4 @@
+// 2. lépés
 import React from "react";
 import { ADD_TODO, DELETE_TODO, EDIT_TODO } from "./actions";
 
